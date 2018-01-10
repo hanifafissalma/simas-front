@@ -3,7 +3,15 @@
   margin-right: auto;
   margin-left: auto;
 }
-
+.login-panel{
+	border-radius: 20px;
+	background-color: #eeeeee;
+	opacity:0;
+	margin-top: -20px;
+	transition: 1s all;
+	-webkit-transition: 1s all;
+	-moz-transition: 1s all;
+}
 .container-fluid {
   padding-right: 2rem;
   padding-left: 2rem;
